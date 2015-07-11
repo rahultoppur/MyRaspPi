@@ -32,6 +32,6 @@ sudo diskutil eject /dev/rdisk2
     Username: pi
     Password: raspberry
     
-6) Keep in mind that the spelling is "raspberry", with a p. I spent a hours trying to figure out why this whole process didn't work.
+6) Keep in mind that the spelling is "raspberry", with a p. I spent hours trying to figure out why this whole process didn't work.
 
 [here]:https://www.raspberrypi.org/downloads/
