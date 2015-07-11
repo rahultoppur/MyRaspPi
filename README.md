@@ -22,8 +22,11 @@ sudo diskutil partitionDisk /dev/disk2 1 MBR "Free Space" "%noformat%" 100%
 sudo dd bs=1m if=/Users/(username)/Downloads/2015-05-05-raspbian-wheezy.img  of=/dev/rdisk2
 ```
 
-4) Eject the SD card.
-
+4) Eject the SD card. You can use Finder, or can run the command here in your terminal:
+```
+sudo diskutil eject /dev/rdisk2
+```
+    
 5) Plug in the SD card into your Raspberry Pi.
     
     Username: pi
