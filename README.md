@@ -1,6 +1,6 @@
 # Creating a bootable SD card for the Raspberry Pi
 
-This mark down will teach you how to wipe and boot you raspberry pi by following these steps. 
+This README will show you how to create a bootable SD card for your Raspberry Pi. 
 
 1) Download the wheezy image from the Raspberry download page [here].
 
